@@ -3,6 +3,7 @@ h1 {
 }
 
 body {
+  max-width:800px;
   margin:0 auto;
 }
 
@@ -17,6 +18,7 @@ h3 {
 iframe {
 border-radius:5px;
 }
+
 
 
 
