@@ -19,6 +19,12 @@ iframe {
 border-radius:5px;
 }
 
+img {
+max-width:400px;
+height:auto;
+}
+
+
 
 
 
