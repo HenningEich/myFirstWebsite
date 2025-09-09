@@ -28,6 +28,11 @@ align-items:center;
 justify-content:center;
 }
 
+figure {
+display:block;
+width:fit-content;
+}
+
 figcaption {
 font-size:40px;
 text-align:center;
@@ -38,6 +43,7 @@ width:500px;
 height:1000px;
 border-radius:40px;
 }
+
 
 
 
