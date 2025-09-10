@@ -19,9 +19,8 @@ img {
 max-width:400px;
 height:auto;
 border-radius:20px;
-display:flex;
-align-items:center;
-justify-content:center;
+display:block;
+margin: 0 auto;
 }
 
 figure {
@@ -77,6 +76,7 @@ p{
 .e {
   color:#EA4335;
 }
+
 
 
 
