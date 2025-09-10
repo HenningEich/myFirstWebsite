@@ -39,6 +39,7 @@ height:500px;
 border-radius:40px;
 padding:20px;
 text-align:center;
+border:2px solid #4285F4;
 }
 
 p{
@@ -78,6 +79,7 @@ p{
 .e {
   color:#EA4335;
 }
+
 
 
 
