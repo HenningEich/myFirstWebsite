@@ -79,6 +79,12 @@ p{
   color:#EA4335;
 }
 
+.nav-container{
+  display:grid;
+  grid-template-columns: repeat(auto-fit, 1fr);
+  gap:20px;
+}
+
 
 
 
