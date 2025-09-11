@@ -85,6 +85,13 @@ p{
   gap:20px;
 }
 
+.nav-tile{
+display:block;
+padding:30px;
+background:#4285F4;
+border-radius: 10px;
+text-align: center;
+}
 
 
 
